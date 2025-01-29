@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Timer</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="timer-container">
+    <h2>Pomodoro Timer</h2>
+    <div class="time-controls">
+      <input type="number" id="workHours" placeholder="Hours" min="0">
+      <input type="number" id="workMinutes" placeholder="Minutes" min="0" max="59">
+      <input type="number" id="breakMinutes" placeholder="Break Minutes" min="1">
+    </div>
+    
+    <div class="tasks">
+      <input type="text" id="taskInput" placeholder="New Task">
+      <button onclick="addTask()">Add Task</button>
+      <div id="taskList"></div>
+    </div>
+
+    <button onclick="startTimer()">Start Timer</button>
+    <div id="timerDisplay"></div>
+  </div>
+  <script src="js/timer.js"></script>
+</body>
+</html>
