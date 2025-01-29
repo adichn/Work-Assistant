@@ -2,15 +2,15 @@
 
 This website is meant to help me stay organized and keep track of tasks, while encouraging me to routinely take breaks and improve how I study. 
 
-[] Options
-    [] Timer
-    [] Stopwatch
-    [] Alarm
-    [] To-Do
-[] Features
-    [] Pomodoro
-    [] Analytics and summary statistics
-    [] AI enhanced suggestions for study habit improvements
+[ ] Options
+    [ ] Timer
+    [ ] Stopwatch
+    [ ] Alarm
+    [ ] To-Do
+[ ] Features
+    [ ] Pomodoro
+    [ ] Analytics and summary statistics
+    [ ] AI enhanced suggestions for study habit improvements
 
 ## Frontent
 
